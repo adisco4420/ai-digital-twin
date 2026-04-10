@@ -10,7 +10,7 @@ interface Message {
     timestamp: Date;
 }
 
-const API_BASE_URL = 'https://1nui605l04.execute-api.eu-west-1.amazonaws.com';
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
 
 export default function Twin() {
     const [messages, setMessages] = useState<Message[]>([]);
