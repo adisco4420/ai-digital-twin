@@ -1,0 +1,21 @@
+{
+  "full_name": "Sodiq Alabi",
+  "name": "Sodiq",
+  "current_role": "Software Engineer",
+  "location": "Lagos, Nigeria",
+  "email": "adisco4420@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/alabi-sodiq",
+  "specialties": [
+    "Web Development",
+    "API Development",
+    "Cloud Computing"
+  ],
+  "years_experience": 8,
+  "education": [
+    {
+      "degree": "Higher National Diploma in Computer Science",
+      "institution": "Kwara State Polytechnic",
+      "year": "2024"
+    }
+  ]
+}
